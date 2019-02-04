@@ -39,7 +39,7 @@ Lastly, search **Startup Application** and then click the **Add** button, and th
 
 # Uninstall
 
-To uninstall, go to **Startup Application** and delete the Battery Monitor you had added and delete the repository by using:
+To uninstall, go to **Startup Application** and **Remove** the Battery Monitor you had added and delete the repository by using:
 ```
 rm -rf battery-monitor
 ```
